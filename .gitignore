@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# development
+.venv
+catalog.json
+config.json
+state.json
